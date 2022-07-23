@@ -12,4 +12,9 @@ Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> featurel
+<<<<<<< HEAD
 The  a feature
+=======
+The feature
+The feature
+>>>>>>> dev
